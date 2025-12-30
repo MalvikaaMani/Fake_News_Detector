@@ -16,11 +16,11 @@
 <p> Tech Stack </p>
 <ul>
 <li> Python</li>
-<ul> Streamlit</li>
+<li> Streamlit</li>
 <li> Machine Learning Algorithm used- Logistic Regression</li>
 </ul>
 
-<p> How to run locally <p>
+<p> Steps to run locally <p>
 <ul>
 <li> Clone this repository </li>
 <li> Create a virtual environment: <code> python -m venv venv </code></li>
@@ -29,6 +29,6 @@
 <li> Train the model using : <code> python training\train_and_evaluate.py </code> </li>
 <li> Run the app: <code> streamlit run app.py </code> </li> 
 </ul>
-
+<br>
 <p> Or you can alternatively try the deployed app on Streamlit : <p> 
 <p> App Link : [https://fakenewsdetector-newapp.streamlit.app/] </p>
