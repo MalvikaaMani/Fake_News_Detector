@@ -1,0 +1,29 @@
+timestamp,prediction,confidence,article_preview,risk_level,trust_score
+2025-12-30 17:02:10.466139,FAKE,97.15,"SHOCKING TRUTH REVEALED: Government hiding secret cure for cancer!
+
+In a stunning revelation, secret documents leaked online prove that the government has been hiding a natural cure for cancer for dec",,
+2025-12-30 17:02:24.878742,FAKE,65.69,"World Health Organization releases new guidelines on cancer prevention
+
+The World Health Organization (WHO) has released updated guidelines focusing on cancer prevention and early detection. The repor",,
+2025-12-30 17:02:26.926960,FAKE,65.69,"World Health Organization releases new guidelines on cancer prevention
+
+The World Health Organization (WHO) has released updated guidelines focusing on cancer prevention and early detection. The repor",,
+2025-12-30 17:03:21.575118,REAL,67.29,"Bangladesh’s first woman prime minister Khaleda Zia, who, along with former PM Sheikh Hasina, shaped the country’s politics in the last 35 years, passed away Tuesday at the age of 80.
+
+“Begum Zia”, as",,
+2025-12-30 17:05:00.740074,REAL,56.61,"The Karnataka High Court last month declined to quash proceedings in a bribery case against an assistant prosecutor working in a court in Tumakuru district’s Tiptur, observing that the law was not aff",,
+2025-12-30 17:08:21.981560,FAKE,97.15,"SHOCKING TRUTH REVEALED: Government hiding secret cure for cancer!
+
+In a stunning revelation, secret documents leaked online prove that the government has been hiding a natural cure for cancer for dec",,
+2025-12-30 17:09:43.845677,REAL,57.42,"They said the bus fell into a gorge near Vinayak with around 17-18 passengers on board. Six to seven are feared dead on the spot, the officials added. According to the SDRF, the injured are being resc",,
+2025-12-30 17:37:02.711499,FAKE,89.27,,HIGH,30.0
+2025-12-30 17:37:49.067998,FAKE,86.93,,HIGH,40.0
+2025-12-30 17:38:40.538621,REAL,69.44,,LOW,100.0
+2025-12-30 17:51:06.841665,FAKE,78.93,,MEDIUM,60.0
+2025-12-30 17:51:30.581931,FAKE,67.14,,MEDIUM,60.0
+2025-12-30 17:59:26.371553,FAKE,65.75,,MEDIUM,60.0
+2025-12-30 18:01:54.541982,FAKE,53.81,,MEDIUM,60.0
+2025-12-30 18:12:21.219536,POTENTIALLY MISCLASSIFIED,75.67,,MEDIUM,60.0
+2025-12-30 18:13:49.326473,FAKE,92.01,,HIGH,40.0
+2025-12-30 18:14:49.366757,REAL,69.44,,LOW,100.0
+2025-12-30 18:38:24.169616,REAL,72.29,,LOW,100.0
