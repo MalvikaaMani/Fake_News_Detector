@@ -24,8 +24,8 @@
 <ul>
 <li> Clone this repository </li>
 <li> Create a virtual environment: <code> python -m venv venv </code></li>
-<li> Activate the virtual environment : Windows: <code> venv\_Scripts\_activate </code> </li>
+<li> Activate the virtual environment : Windows: <code> venv\Scripts\activate </code> </li>
 <li> Install the requirements: <code> pip install -r requirements.txt </code> </li>
-<li> Train the model using : <code> python training\_train_and_evaluate.py </code> </li>
+<li> Train the model using : <code> python training\train_and_evaluate.py </code> </li>
 <li> Run the app: <code> streamlit run app.py </code> </li> 
 </ul>
