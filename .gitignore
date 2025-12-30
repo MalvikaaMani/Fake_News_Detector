@@ -1,0 +1,43 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------
+# Virtual Environment
+# --------------------
+venv/
+env/
+.venv/
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# IDE files
+# --------------------
+.vscode/
+.idea/
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# Temporary / cache
+# --------------------
+.cache/
+.ipynb_checkpoints/
+
+# --------------------
+# Large raw datasets (optional)
+# --------------------
+# Uncomment if you don't want to upload datasets
+# dataset/
