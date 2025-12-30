@@ -29,6 +29,6 @@
 <li> Train the model using : <code> python training\train_and_evaluate.py </code> </li>
 <li> Run the app: <code> streamlit run app.py </code> </li> 
 </ul>
-<p> Or you can alternatively try the deployed app on Streamlit : <p>
-<br> 
+
+<p> Or you can alternatively try the deployed app on Streamlit : <p> 
 <p> App Link : [https://fakenewsdetector-newapp.streamlit.app/] </p>
